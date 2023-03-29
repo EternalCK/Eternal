@@ -255,7 +255,7 @@ const config = {
       path: 'blog',
       routeBasePath: '/',
       editUrl: ({ locale, blogDirPath, blogPath, permalink }) =>
-        `https://github.com/EternalCK/blog--Docusaurus/edit/master/${blogDirPath}/${blogPath}`,
+        `https://github.com/EternalCK/Eternal/edit/master/${blogDirPath}/${blogPath}`,
       editLocalizedFiles: false,
       blogDescription: '个人博客',
       blogSidebarTitle: '近期文章',
